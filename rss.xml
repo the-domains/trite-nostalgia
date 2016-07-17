@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[trite nostalgia]]></title>
         <description><![CDATA[trite nostalgia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trite-nostalgia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 13:06:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jul 2016 13:06:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trite-nostalgia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lunch Talk - Tobias Frere-Jones]]></title>
+            <description><![CDATA[<article><h1>Lunch Talk - Tobias Frere-Jones</h1><p>Tobias Frere-Jones is the founder of Frere-Jones Type, a typeface design studio in Brooklyn, New York. Frere-Jones is widely recognized as one of the world's leading type designers, and has created some of the most popular typefaces in use today, including Interstate, Poynter Oldstyle, Whitney, Gotham, Surveyor, Tungsten, and Retina.</p></article>]]></description>
+            <link>https://vimeo.com/147460798</link>
+            <guid isPermaLink="false">9ba15bd5-b95a-498e-b536-69ad25540048</guid>
+            <pubDate>Sun, 17 Jul 2016 13:06:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Type Designer Tobias Frere-Jones Follows Trends, Not Rules]]></title>
-            <description><![CDATA[<article><h1>Why Type Designer Tobias Frere-Jones Follows Trends, Not Rules</h1><p>Co.Design has partnered with the Brooklyn design studio Hyperakt to bring you Lunch Talks, a video series of conversations with smart, creative people.-Eds Having designed over 700 typefaces, Tobias Frere-Jones is as close to a living legend as the modern typeworld has.</p><img src="http://b.fastcompany.net/multisite_files/fastcompany/imagecache/620x350/poster/2016/06/3060698-poster-p-1-tobias-frere-jones-on-what-hes-learned.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why Type Designer Tobias Frere-Jones Follows Trends, Not Rules</h1><p>Co.Design has partnered with the Brooklyn design studio Hyperakt to bring you Lunch Talks, a video series of conversations with smart, creative people.-Eds Having designed over 700 typefaces, Tobias Frere-Jones is as close to a living legend as the modern typeworld has.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8783b3636ea6cfa8ab49ad2f38d96fd2/noop.jpg?input=http%3A%2F%2Fb.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2F620x350%2Fposter%2F2016%2F06%2F3060698-poster-p-1-tobias-frere-jones-on-what-hes-learned.jpg"></article>]]></description>
             <link>http://www.fastcodesign.com/3060698/why-type-designer-tobias-frere-jones-follows-trends-not-rules</link>
             <guid isPermaLink="false">91ddad97-c891-4beb-a466-9d057a6e8f30</guid>
             <pubDate>Sun, 17 Jul 2016 13:05:46 GMT</pubDate>
